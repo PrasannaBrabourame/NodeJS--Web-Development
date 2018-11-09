@@ -1,2 +1,2 @@
-# NodeJS--Web-Development
-NodeJS web development output using html processor, template engine, grunt , gullp
+# NodeJS-Web-development
+NodeJS Web development using express, HTML Processor, Template Engine, Gulp, Grunt
